@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manastechnical
-- 👀 I’m interested in learning new things and dedicated to my work.
+- 👀 I’m interested in learning new things, grasp knowledge and get experience. I'm always dedicated to my work.
 - 🌱 I’m currently learning JS and React.
 - 📫 How to reach me? Mail me on manasjagtap20@gmail.com
 
