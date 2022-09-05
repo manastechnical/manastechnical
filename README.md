@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manastechnical
+- 👋 Hi, I’m Manas Jagtap
 - 👀 I’m interested in learning new things, grasp knowledge and get experience. I'm always dedicated to my work.
 - 🌱 I’m currently learning JS and React.
 - 📫 How to reach me? Mail me on manasjagtap20@gmail.com
