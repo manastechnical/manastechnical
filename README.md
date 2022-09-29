@@ -17,7 +17,7 @@
 <code><img alt="Linux" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
  
 
-### Connect Me
+### Connect With Me
 [![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/manas-jagtap-1ba90a241/)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter.svg)](https://twitter.com/drasticcoder)
