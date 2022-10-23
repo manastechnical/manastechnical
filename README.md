@@ -1,4 +1,4 @@
-# Hello,<br> I'm Manas Jagtap a.k.a MJOP👋 
+# Hello,<br> I'm Manas Jagtap👋 
 
 ## I'm a Student and Developer
 
