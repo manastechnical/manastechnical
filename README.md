@@ -1,6 +1,6 @@
 # Hello,<br> I'm Manas Jagtap👋 
 # 💫 About Me:
-🔭 I’m currently working on gaining skills<br>📚 I’m currently learning TypeScript<br>🥅 2023 Goals: Learn more about WEB DEV ⚛️<br>⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳<br>💼 Status: Intern at ModernSolnHub 🧑‍💻
+🔭 I’m currently working on gaining skills<br>📚 I’m currently learning TypeScript<br>🥅 2023 Goals: Learn more about WEB DEV ⚛️<br>⚡ Fun fact: I love to Eat 🍽️ and sleep 🧳<br>💼 Status: Intern at Noesis InfoTech 🧑‍💻
 
 
 ## 🌐 Socials:
